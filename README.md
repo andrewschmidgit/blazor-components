@@ -1,1 +1,1 @@
-# blazor-components
+# Blazor Components
